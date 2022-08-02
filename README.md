@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 🥇 International Informatics Olympiad 2017 <span style="color:gold;">Gold Medalist</span> with International Olympiad Rank 286
 - 👨‍🏫 Currently a Trainer at a Ed-Tech Startup, Teaching Kids How to Code.
 
+<br><br><br>
 ## Tools I generally use
 <img align="left" src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50">
 <img align="left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="50" height="50" style="border-radius: 50%">
