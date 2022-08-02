@@ -61,4 +61,7 @@ Here are some ideas to get you started:
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arindam-sahoo&theme=react&hide_langs_below=1&line_height=27" alt="arindam's github stats" />
 </a> </p>
 
+## Watch Snake eating my contribution graph
+![snake gif](https://github.com/arindam-sahoo/arindam-sahoo/blob/output/github-contribution-grid-snake.gif)
+
 <img align="middle" src="https://gpvc.arturio.dev/arindam-sahoo" alt="profile view" />
