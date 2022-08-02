@@ -19,7 +19,7 @@
 <p>I am a Second Year Computer Engineering Student (Artificial Intelligence & Machine Learning), seeking to utilize my knowledge of programming to innovate, as well as gain knowledge and experience in the process. I am originated from Kolkata, West Bengal, India. I have been coding since 2010 and teaching coding since 2016 and have been a corporate coding instructor since 2021.</p>
 </br>
 
-<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Here are some ideas to get you started:
 
