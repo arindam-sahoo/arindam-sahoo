@@ -19,7 +19,7 @@
 <p>I am a Second Year Computer Engineering Student (Artificial Intelligence & Machine Learning), seeking to utilize my knowledge of programming to innovate, as well as gain knowledge and experience in the process. I am originated from Kolkata, West Bengal, India. I have been coding since 2010 and teaching coding since 2016 and have been a corporate coding instructor since 2021.</p>
 </br>
 
-<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center"><img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 50px; padding:20px;"></p>
 
 Here are some ideas to get you started:
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🥇 International Informatics Olympiad 2017 <span style="color:gold;">Gold Medalist</span> with International Olympiad Rank 286
 - 👨‍🏫 Currently a Trainer at a Ed-Tech Startup, Teaching Kids How to Code.
 
-## Toolbox
+## Tools I generally use
 <img align="left" src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50">
 <img align="left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="50" height="50" style="border-radius: 50%">
 <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50">
