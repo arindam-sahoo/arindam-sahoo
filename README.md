@@ -21,7 +21,10 @@
 
 <p align="center"><img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding:20px;" width=400></p>
 
-Here are some ideas to get you started:
+## My Github Badges
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arindam-sahoo" alt="arindam-sahoo" /></a> </p>
+
+## Here are some ideas to get you started:
 
 - 💡 Never satisfied of learning something.
 - 🆕 Upto something new & different always.
