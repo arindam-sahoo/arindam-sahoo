@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" width="70" height="50">
 
 
-##
+## My Github Stats
 <p align="center">
 <a href="https://github.com/arindam-sahoo">
  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=arindam-sahoo&show_icons=true&theme=react&line_height=27" alt="arindam's github stats"/>
