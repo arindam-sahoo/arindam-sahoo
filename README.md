@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🤓 Wanna learn Back-End, Blockchains, AR & VR.
 - 🏏 Was upto Sports and Games when had senses.
 - 🥇 International Informatics Olympiad 2017 <span style="color:gold;">Gold Medalist</span> with International Olympiad Rank 286
-- 👨‍🏫 Currently a Trainer at a Ed-Tech Startup, Teaching Kids How to Code.
+- 👨‍🏫 Currently a Trainer at an Ed-Tech Startup, Teaching Kids How to Code.
 
 <br><br><br>
 ## Tools I generally use
