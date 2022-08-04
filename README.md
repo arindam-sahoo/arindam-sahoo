@@ -67,6 +67,9 @@
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arindam-sahoo&theme=react&hide_langs_below=1&line_height=27" alt="arindam's github stats" />
 </a> </p>
 
+![Arindam's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arindam-sahoo&theme=react-dark)
+
+
 ## Watch Snake eating my contribution graph
 ![snake gif](https://github.com/arindam-sahoo/arindam-sahoo/blob/output/github-contribution-grid-snake.gif)
 
