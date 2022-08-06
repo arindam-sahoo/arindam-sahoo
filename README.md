@@ -16,7 +16,7 @@
 <br><br><br>
 
 ## About Me
-<p>I am a Second Year Computer Engineering Student (Artificial Intelligence & Machine Learning), seeking to utilize my knowledge of programming to innovate, as well as gain knowledge and experience in the process. I am originated from Kolkata, West Bengal, India. I have been coding since 2010 and teaching coding since 2016 and have been a corporate coding instructor since 2021.</p>
+<p>I am a Computer Engineering Student (Artificial Intelligence & Machine Learning), seeking to utilize my knowledge of programming to innovate, as well as gain knowledge and experience in the process. I am originated from Kolkata, West Bengal, India. I have been coding since 2010 and teaching coding since 2016 and have been a corporate coding instructor since 2021.</p>
 </br>
 
 
