@@ -45,8 +45,9 @@
 <img align="left" src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50">
 <img align="left" src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" width="50" height="50">
 <img align="left" src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50">
+<img align="left" src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50">
 <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" width="70" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50">
 
 
 ## My Github Stats
