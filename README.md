@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://www.instagram.com/this_is_arin02/">
-  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"  />
+  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>
 </a>
 
 <a href="https://t.me/this_is_arin02">
@@ -22,7 +22,7 @@
 
 
 ## My Github Badges
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arindam-sahoo" alt="arindam-sahoo" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=arindam-sahoo" alt="arindam-sahoo" /></p>
 <br><br>
 
 <p align="center"><img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding:20px;" width=400></p>
@@ -38,17 +38,20 @@
 - 👨‍🏫 Currently a Trainer at an Ed-Tech Startup, Teaching Kids How to Code.
 
 <br><br><br>
-## Tools I generally use
-<img align="left" src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50">
-<img align="left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="50" height="50" style="border-radius: 50%">
-<img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50">
-<img align="left" src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50">
-<img align="left" src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" width="50" height="50">
-<img align="left" src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50">
-<img align="left" src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50">
-<img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50">
 
+## Tools I generally use
+
+<p align="center">
+<img src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50" style="border-radius: 50%">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50">
+<img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50">
+<img src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" height="50">
+<img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50">
+<img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50">
+</p>
 
 ## My Github Stats
 <p align="center">
@@ -74,4 +77,4 @@
 ## Watch Snake eating my contribution graph
 ![snake gif](https://github.com/arindam-sahoo/arindam-sahoo/blob/output/github-contribution-grid-snake.gif)
 
-<img align="middle" src="https://gpvc.arturio.dev/arindam-sahoo" alt="profile view" />
+<img src="https://gpvc.arturio.dev/arindam-sahoo" alt="profile view" />
