@@ -35,17 +35,18 @@
 - 🤓 Wanna learn Back-End, Blockchains, AR & VR.
 - 🏏 Was upto Sports and Games when had senses.
 - 🥇 International Informatics Olympiad 2017 <span style="color:gold;">Gold Medalist</span> with International Olympiad Rank 286
-- 👨‍🏫 Currently a Trainer at an Ed-Tech Startup, Teaching Kids How to Code.
+- 👨‍🏫 Currently a Coding Instructor at an Ed-Tech Startup, Teaching Kids How to Code.
 
 <br><br><br>
 
-## Tools I generally use
+## Languages & Tools I generally use
 
 <p align="center">
 <img src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50" style="border-radius: 50%">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50">
 <img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50">
 <img src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" height="50">
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50">
 <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50">
