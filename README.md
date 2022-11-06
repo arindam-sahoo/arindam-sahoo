@@ -23,7 +23,7 @@
 
 ## My Github Badges
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=arindam-sahoo" alt="arindam-sahoo" /></p>
-<p align="center"><img src="https://www.holopin.me/arindamsahoo"></a></p>
+<p align="center"><img src="https://www.holopin.me/arindamsahoo" width = "80%"></a></p>
 <br><br>
 
 <p align="center"><img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding:20px;" width=400></p>
