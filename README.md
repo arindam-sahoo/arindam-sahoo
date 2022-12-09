@@ -23,7 +23,6 @@
 
 ## My Github Badges
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=arindam-sahoo" alt="arindam-sahoo" /></p>
-<p align="center"><img src="https://www.holopin.me/arindamsahoo"></a></p>
 <br><br>
 
 <p align="center"><img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding:20px;" width=400></p>
@@ -47,7 +46,7 @@
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50">
 <img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50">
-<!-- <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50"> -->
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50">
 <img src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" height="50">
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50">
 <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50">
