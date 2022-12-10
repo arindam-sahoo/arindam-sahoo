@@ -81,6 +81,11 @@
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arindam-sahoo&theme=react&hide_langs_below=1&line_height=27" alt="arindam's github stats" />
 </a> </p>
 
-<!-- ![Arindam's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arindam-sahoo&theme=react-dark) -->
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=arindam-sahoo&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arindam-sahoo&theme=radical&layout=compact" />
+</div>
+
+
 
 <img src="https://gpvc.arturio.dev/arindam-sahoo" alt="profile view" />
