@@ -55,14 +55,6 @@
 </p>
 <br/><br/>
 
-## Currently Working On
-
-<p align="center">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" height="50">
-<img src = "https://static.djangoproject.com/img/logos/django-logo-positive.png" height="50" style="border-radius: 3px"
-</p>
-<br/><br/>
-
 ## My Github Stats
 <p align="center">
 <a href="https://github.com/arindam-sahoo">
