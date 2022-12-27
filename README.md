@@ -1,6 +1,7 @@
 
 <h1 align="center"> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;"> , I'm Arindam </h1>
 
+<div align="center">
 <a href="https://www.linkedin.com/in/arindam-sahoo/">
   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">
 </a>
@@ -14,8 +15,9 @@
 </a>
 
 <a href="mailto:arindams2002@gmail.com">
-  <img align="left" width="50px" src="https://icons-for-free.com/iconfiles/png/512/email+envelope+inbox+mail+message+send+icon-1320085879987098147.png"  />
+  <img align="left" width="50px" src="https://icons-for-free.com/iconfiles/png/512/mail+icon-1320085756473712462.png"  />
 </a>
+</div>
 
 <br><br><br>
 
@@ -43,7 +45,7 @@
 
 <br><br><br>
 
-## Languages & Tools I generally use
+## Tech Stack I generally use
 
 <p align="center">
 <img src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50">
@@ -55,6 +57,9 @@
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50">
 <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="50">
+<img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" height="50">
+<img src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" height="50">
+<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50">
 </p>
 <br/><br/>
