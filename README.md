@@ -13,7 +13,7 @@
   <img align="left" width="50px" src="https://icons-for-free.com/download-icon-media+social+telegram+icon-1320193121598222952_512.png"  />
 </a>
 
-<a href="arindams2002@gmail.com">
+<a href="mailto:arindams2002@gmail.com">
   <img align="left" width="50px" src="https://icons-for-free.com/iconfiles/png/512/email+envelope+inbox+mail+message+send+icon-1320085879987098147.png"  />
 </a>
 
