@@ -48,19 +48,19 @@
 ## Tech Stack I generally use
 
 <p align="center">
-<img src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50">
-<img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50">
+<img src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50"/>
+<img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50"/>
 <!-- <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50"> -->
-<img src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" height="50">
-<img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50">
-<img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="50">
-<img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" height="50">
-<img src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" height="50">
-<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50">
+<img src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" height="50"/>
+<img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50"/>
+<img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="50"/>
+<img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" height="50"/>
+<img src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" height="50"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50"/>
 </p>
 <br/><br/>
 
