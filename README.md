@@ -9,8 +9,12 @@
   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>
 </a>
 
-<a href="https://t.me/this_is_arin02">
+<a href="https://telegram.me/this_is_arin02">
   <img align="left" width="50px" src="https://icons-for-free.com/download-icon-media+social+telegram+icon-1320193121598222952_512.png"  />
+</a>
+
+<a href="arindams2002@gmail.com">
+  <img align="left" width="50px" src="https://icons-for-free.com/iconfiles/png/512/email+envelope+inbox+mail+message+send+icon-1320085879987098147.png"  />
 </a>
 
 <br><br><br>
@@ -35,7 +39,7 @@
 - 🤓 Wanna learn Back-End, Blockchains, AR & VR.
 - 🏏 Was upto Sports and Games when had senses.
 - 🥇 International Informatics Olympiad 2017 <span style="color:gold;">Gold Medalist</span> with International Olympiad Rank 286
-- 👨‍🏫 Currently a Coding Instructor at an Ed-Tech Startup, Teaching Kids How to Code.
+- 👨‍🏫 Currently a Coding Instructor and Content Reviewer at an Ed-Tech Startup, Teaching Kids How to Code.
 
 <br><br><br>
 
