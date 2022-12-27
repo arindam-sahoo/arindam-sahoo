@@ -48,7 +48,7 @@
 ## Tech Stack I generally use
 
 <p align="center">
-<img src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50"/>
+<img href="https://docs.python.org/3/" src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50"/>
 <img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50"/>
