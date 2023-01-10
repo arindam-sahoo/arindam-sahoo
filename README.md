@@ -38,8 +38,7 @@
 - 💡 Never satisfied of learning something.
 - 🆕 Upto something new & different always.
 - 😨 Amaxophobic of driving Two-Wheelers.
-- 🤓 Wanna learn Back-End, Blockchains, AR & VR.
-- 🏏 Was upto Sports and Games when had senses.
+- 🤓 Wanna learn Blockchain, AR & VR.
 - 🥇 International Informatics Olympiad 2017 <span style="color:gold;">Gold Medalist</span> with International Olympiad Rank 286
 - 👨‍🏫 Currently a Coding Instructor and Content Reviewer at an Ed-Tech Startup, Teaching Kids How to Code.
 
