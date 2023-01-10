@@ -59,12 +59,13 @@
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50"/>
 <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="50"/>
-<img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" height="50"/>
-<img src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" style="background-color: white; border-radius: 5px;" height="50"/>
-<img src="https://img.stackshare.io/service/994/4aGjtNQv.png" style="border-radius: 5px;" height="50"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style="background-color: white; border-radius: 5px;" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50"/>
-<img src="https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png" style="background-color: white; border-radius: 5px;" height="50">
+<img src = "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg" style="border-radius: 5px" height="50"/>
+<img src = "https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" height="50"/>
+<img src = "https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" style="background-color: white; border-radius: 5px;" height="50"/>
+<img src = "https://img.stackshare.io/service/994/4aGjtNQv.png" style="border-radius: 5px;" height="50"/>
+<img src = "https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style = "background-color: white; border-radius: 5px;" height="50"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50"/>
+<img src = "https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png" style="background-color: white; border-radius: 5px;" height="50">
 </p>
 <br/><br/>
 
