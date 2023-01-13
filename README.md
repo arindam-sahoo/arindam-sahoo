@@ -17,6 +17,10 @@
 <a href="mailto:arindams2002@gmail.com">
   <img align="left" width="50px" src="https://icons-for-free.com/iconfiles/png/512/mail+icon-1320085756473712462.png" style="filter: -webkit-filter: grayscale(1) invert(1); filter: grayscale(1) invert(1)"/>
 </a>
+
+<a href="https://discord.gg/8761" target="blank">
+  <img align="left" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
+</a>
 </div>
 
 <br><br><br>
@@ -65,6 +69,7 @@
 <img src = "https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style = "background-color: white; border-radius: 5px;" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50"/>
 <img src = "https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png" style="background-color: white; border-radius: 5px;" height="50">
+<img src = "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/>
 </p>
 <br/><br/>
 
