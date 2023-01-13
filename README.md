@@ -3,23 +3,23 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/arindam-sahoo/">
-  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">
+  <img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">
 </a>
 
 <a href="https://www.instagram.com/this_is_arin02/">
-  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>
+  <img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>
 </a>
 
 <a href="https://telegram.me/this_is_arin02">
-  <img align="left" width="50px" src="https://icons-for-free.com/download-icon-media+social+telegram+icon-1320193121598222952_512.png"/>
+  <img align="left" height="50px" src="https://icons-for-free.com/download-icon-media+social+telegram+icon-1320193121598222952_512.png"/>
 </a>
 
 <a href="mailto:arindams2002@gmail.com">
-  <img align="left" width="50px" src="https://icons-for-free.com/iconfiles/png/512/mail+icon-1320085756473712462.png" style="filter: -webkit-filter: grayscale(1) invert(1); filter: grayscale(1) invert(1)"/>
+  <img align="left" height="50px" src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png"/>
 </a>
 
 <a href="https://discord.gg/8761" target="blank">
-  <img align="left" width="50" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"/>
+  <img align="left" height="50" src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png"/>
 </a>
 </div>
 
