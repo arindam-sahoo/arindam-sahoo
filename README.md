@@ -18,7 +18,7 @@
   <img align="left" height="50px" src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png"/>
 </a>
 
-<a href="https://discord.gg/8761" target="blank">
+<a href="https://discord.com/users/715053141820833843" target="blank">
   <img align="left" height="50" src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png"/>
 </a>
 </div>
