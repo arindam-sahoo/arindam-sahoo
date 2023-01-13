@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://discord.gg/8761" target="blank">
-  <img align="left" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
+  <img align="left" width="50" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"/>
 </a>
 </div>
 
