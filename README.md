@@ -36,7 +36,7 @@
 <br><br>
 
 <p align="center"><img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding:20px;" width=400></p>
-
+</br>
 ## Here are some ideas to get you started:
 
 - 💡 Never satisfied of learning something.
