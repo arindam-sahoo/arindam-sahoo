@@ -27,7 +27,7 @@
 
 ## About Me
 <p>I am a Computer Engineering Student (Artificial Intelligence & Machine Learning), seeking to utilize my knowledge of programming to innovate, as well as gain knowledge and experience in the process. I am originated from Kolkata, West Bengal, India. I have been coding since 2010 and teaching coding since 2016 and have been a corporate coding instructor since 2021.</p>
-</br>
+<br/>
 
 
 
@@ -36,7 +36,7 @@
 <br><br>
 
 <p align="center"><img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding:20px;" width=400></p>
-</br>
+<br/>
 ## Here are some ideas to get you started:
 
 - 💡 Never satisfied of learning something.
