@@ -72,6 +72,7 @@
 <img src = "https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png" style="background-color: white; border-radius: 5px;" height="50"/>
 <img src = "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/>
 <img src = "https://www.crummy.com/software/BeautifulSoup/10.1.jpg" style="border-radius: 5px;" height="50"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="50"/>
 </p>
 <br/><br/>
 
