@@ -52,34 +52,46 @@
 ## My Stack
 
 ### Programming Languages
+<p align="center">
 <img src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50"/>
 <img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="50"/>
+</p>
 
 ### Web Development Frameworks
+<p align="center">
 <img src = "https://img.stackshare.io/service/994/4aGjtNQv.png" style="border-radius: 5px;" height="50"/>
 <img src = "https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" height="50"/>
 <img src = "https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" style="background-color: white; border-radius: 5px;" height="50"/>
+</p>
 
 ### Web Development
+<p align="center">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" style="border-radius: 5px;" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" style="border-radius: 5px" height="50"/>
+</p>
 
 ### Databases
+<p align="center">
 <img src = "https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style = "background-color: white; border-radius: 5px;" height="50"/>
 <img src="https://img.portalgsti.com.br/OcsHhsi42lFfKiWbY9GVTDliHi8=/200x200/https://www.portalgsti.com.br/media/uploads/community/2016/04/25/sqlite.png" style = "background-color: white; border-radius: 5px;" height="50"/>
+</p>
 
 ### Code Editors & Version Control
+<p align="center">
 <img src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" style="background-color: white; border-radius: 5px;" height="50">
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50"/>
 <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50"/>
+</p>
 
 ### Others
+<p align="center">
+<img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" height="50"/>
 <img src="https://pandas.pydata.org/static/img/favicon_white.ico" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50"/>
 <img src = "https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png" style="background-color: white; border-radius: 5px;" height="50"/>
@@ -87,7 +99,6 @@
 <img src = "https://www.crummy.com/software/BeautifulSoup/10.1.jpg" style="border-radius: 5px;" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" height="50"/>
 </p>
-<br/><br/>
 
 ## My Github Stats
 <p align="center">
