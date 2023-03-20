@@ -38,35 +38,24 @@
 <p align="center"><img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding:20px;" width=400></p>
 <br/>
 
-## Here are some ideas to get you started:
-
-- 💡 Never satisfied of learning something.
-- 🆕 Upto something new & different always.
-- 😨 Amaxophobic of driving Two-Wheelers.
-- 🤓 Wanna learn Blockchain, AR & VR.
-- 🥇 International Informatics Olympiad 2017 <span style="color:gold;">Gold Medalist</span> with International Olympiad Rank 286
-- 👨‍🏫 Currently a Coding Instructor and Content Reviewer at an Ed-Tech Startup, Teaching Kids How to Code.
-
-<br><br><br>
-
 ## My Stack
 
-### Programming Languages
-<p align="center">
+#### Programming Languages
+<p>
 <img src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50"/>
 <img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="50"/>
 </p>
 
-### Web Development Frameworks
-<p align="center">
+#### Web Development Frameworks
+<p>
 <img src = "https://img.stackshare.io/service/994/4aGjtNQv.png" style="border-radius: 5px;" height="50"/>
 <img src = "https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" height="50"/>
 <img src = "https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" style="background-color: white; border-radius: 5px;" height="50"/>
 </p>
 
-### Web Development
-<p align="center">
+#### Web Development
+<p>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" style="border-radius: 5px;" height="50"/>
@@ -75,22 +64,22 @@
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" style="border-radius: 5px" height="50"/>
 </p>
 
-### Databases
-<p align="center">
+#### Databases
+<p>
 <img src = "https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style = "background-color: white; border-radius: 5px;" height="50"/>
 <img src="https://img.portalgsti.com.br/OcsHhsi42lFfKiWbY9GVTDliHi8=/200x200/https://www.portalgsti.com.br/media/uploads/community/2016/04/25/sqlite.png" style = "background-color: white; border-radius: 5px;" height="50"/>
 </p>
 
-### Code Editors & Version Control
-<p align="center">
+#### Code Editors & Version Control
+<p>
 <img src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" style="background-color: white; border-radius: 5px;" height="50">
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50"/>
 <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50"/>
 </p>
 
-### Others
-<p align="center">
+#### Others
+<p>
 <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" height="50"/>
 <img src="https://pandas.pydata.org/static/img/favicon_white.ico" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50"/>
