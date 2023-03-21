@@ -54,6 +54,7 @@
 <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" height="50"/>
 <img src="https://pandas.pydata.org/static/img/favicon_white.ico" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" height="50"/>
+<img src="https://techis.io/assets/img/sklearn-lg.png" height="50"/>
 </p>
 
 #### Web Development Frameworks
