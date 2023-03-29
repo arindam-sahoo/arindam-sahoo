@@ -85,7 +85,7 @@
 <img src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" height="50"/>
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50"/>
 <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50"/>
-<img src = "https://static.macupdate.com/products/58607/l/hyper-logo.png?v=1661409456" height="50"/>
+<img src = "https://static.macupdate.com/products/58607/l/hyper-logo.png" height="50"/>
 </p>
 
 #### Others
