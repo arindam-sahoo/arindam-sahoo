@@ -57,14 +57,14 @@
 <img src="https://techis.io/assets/img/sklearn-lg.png" height="50"/>
 </p>
 
-#### Web Development Frameworks
+#### Backend Web Development Frameworks
 <p>
 <img src = "https://img.stackshare.io/service/994/4aGjtNQv.png" style="border-radius: 5px;" height="50"/>
 <img src = "https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" height="50"/>
 <img src = "https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" style="background-color: white; border-radius: 5px;" height="50"/>
 </p>
 
-#### Web Development
+#### Frontend Web Development Tools
 <p>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50"/>
@@ -80,11 +80,12 @@
 <img src="https://img.portalgsti.com.br/OcsHhsi42lFfKiWbY9GVTDliHi8=/200x200/https://www.portalgsti.com.br/media/uploads/community/2016/04/25/sqlite.png" style = "background-color: white; border-radius: 5px;" height="50"/>
 </p>
 
-#### Code Editors & Version Control
+#### Code Editors & Version Control, etc.
 <p>
 <img src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" height="50"/>
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50"/>
 <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50"/>
+<img src = "https://static.macupdate.com/products/58607/l/hyper-logo.png?v=1661409456" height="50"/>
 </p>
 
 #### Others
