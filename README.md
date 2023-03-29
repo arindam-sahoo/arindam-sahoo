@@ -85,7 +85,7 @@
 <img src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" height="50"/>
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50"/>
 <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50"/>
-<img src = "https://user-images.githubusercontent.com/4686187/124090674-bba68c00-da5d-11eb-9369-a0b8dad8ea54.png" height="50"/>
+<img src = "https://ph-files.imgix.net/d20962fa-6bca-4f4a-810a-2ff5a1d48438.png" height="50"/>
 </p>
 
 #### Others
