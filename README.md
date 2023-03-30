@@ -63,7 +63,7 @@
 <img src = "https://img.stackshare.io/service/994/4aGjtNQv.png" style="border-radius: 5px;" height="50"/>
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18v7qjb95jfqfBueH0PMFkla_3cPQQORDPL_pkACa7Z1IpqKY-8fkvEv75YiV5cwwRXE&usqp=CAU" style="border-radius: 5px;" height="50"/>
 <img src = "https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" height="50"/>
-<img src = "https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" style="background-color: white; border-radius: 5px;" height="50"/>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5AGOp4Lx4bMVLGtg6AVexHc17D_WkqgnMipvw4VHimEaWHNnAdEOtaW8yI2HAZ9_SfUo&usqp=CAU" style="background-color: white; border-radius: 5px;" height="50"/>
 </p>
 
 #### Frontend Web Development Tools
