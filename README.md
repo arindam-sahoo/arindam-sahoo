@@ -98,7 +98,8 @@
 <img src = "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/>
 <img src = "https://www.crummy.com/software/BeautifulSoup/10.1.jpg" style="border-radius: 5px;" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" style="border-radius: 5px;" height="50"/>
-<!-- img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" height="50"/ -->
+<img src = "https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" height="50"/>
+<img src = "https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png" height="50"/>
 </p>
 
 ## My Github Stats
