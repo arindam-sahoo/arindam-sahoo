@@ -61,7 +61,6 @@
 #### Backend Web Development Frameworks
 <p>
 <img src = "https://img.stackshare.io/service/994/4aGjtNQv.png" style="border-radius: 5px;" height="50"/>
-<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18v7qjb95jfqfBueH0PMFkla_3cPQQORDPL_pkACa7Z1IpqKY-8fkvEv75YiV5cwwRXE&usqp=CAU" style="border-radius: 5px;" height="50"/>
 <img src = "https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" height="50"/>
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5AGOp4Lx4bMVLGtg6AVexHc17D_WkqgnMipvw4VHimEaWHNnAdEOtaW8yI2HAZ9_SfUo&usqp=CAU" style="background-color: white; border-radius: 5px;" height="50"/>
 </p>
@@ -94,12 +93,9 @@
 <p>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50"/>
 <img src = "https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" style="background-color: white; border-radius: 5px;" height="50"/>
-<img src = "https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png" style="background-color: white; border-radius: 5px;" height="50"/>
 <img src = "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/>
 <img src = "https://www.crummy.com/software/BeautifulSoup/10.1.jpg" style="border-radius: 5px;" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" style="border-radius: 5px;" height="50"/>
-<img src = "https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" height="50"/>
-<img src = "https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png" height="50"/>
 </p>
 
 ## My Github Stats
