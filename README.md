@@ -95,7 +95,7 @@
 <img src = "https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" style="background-color: white; border-radius: 5px;" height="50"/>
 <img src = "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/>
 <img src = "https://www.crummy.com/software/BeautifulSoup/10.1.jpg" style="border-radius: 5px;" height="50"/>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" style="border-radius: 5px;" height="50"/>
+<!-- <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" style="border-radius: 5px;" height="50"/> -->
 </p>
 
 ## My Github Stats
