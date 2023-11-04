@@ -6,10 +6,6 @@
   <img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">
 </a>
 
-<a href="https://www.instagram.com/this_is_arin02/">
-  <img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>
-</a>
-
 <a href="https://telegram.me/this_is_arin02">
   <img align="left" height="50px" src="https://icons-for-free.com/download-icon-media+social+telegram+icon-1320193121598222952_512.png"/>
 </a>
