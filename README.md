@@ -14,7 +14,7 @@
   <img align="left" height="50px" src="https://icons-for-free.com/download-icon-media+social+telegram+icon-1320193121598222952_512.png"/>
 </a>
 
-<a href="mailto:arindams2002@gmail.com">
+<a href="mailto:arindam.sahoo.1106@gmail.com">
   <img align="left" height="50px" src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png"/>
 </a>
 
