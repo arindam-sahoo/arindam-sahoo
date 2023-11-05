@@ -102,9 +102,9 @@
 </br>
 </br>
 <p align="center">
-<a href="https://github.com/arindam-sahoo">
+<!-- <a href="https://github.com/arindam-sahoo">
  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=arindam-sahoo&theme=transparent" alt="arindam's github stats"/>
- </a></p>
+ </a></p> -->
 </br>
 </br>
 <p align="center">
@@ -114,4 +114,4 @@
 
 
 
-<img src="https://gpvc.arturio.dev/arindam-sahoo" alt="profile view" />
+<!--img src="https://gpvc.arturio.dev/arindam-sahoo" alt="profile view" /-->
