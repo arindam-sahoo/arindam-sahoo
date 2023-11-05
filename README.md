@@ -103,7 +103,7 @@
 </br>
 <p align="center">
 <a href="https://github.com/arindam-sahoo">
- <img align="middle" src="https://github-readme-stats.vercel.app/api?user=arindam-sahoo&theme=transparent" alt="arindam's github stats"/>
+ <img align="middle" src="https://github-readme-stats.vercel.app/api?username=arindam-sahoo&theme=transparent" alt="arindam's github stats"/>
  </a></p>
 </br>
 </br>
