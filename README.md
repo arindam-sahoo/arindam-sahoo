@@ -28,8 +28,7 @@
 * 🗺️  I'm based in Kolkata
 * 🌍   [Click Here](http://https://arindam-sahoo.netlify.app/) to see my portfolio
 * ✉️  You can contact me at [arindam.sahoo.1106@gmail.com](mailto:arindam.sahoo.1106@gmail.com)
-* 🚀  I'm currently working on [Auvete](http://github.com/Auvete)
-* 🤝  I'm open to collaborating on Challenging Projects
+* 🤝  I'm open to collaborate on Challenging Projects
 <br/>
 
 
