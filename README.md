@@ -115,12 +115,12 @@
 <div width="100%" align="center"><a href="https://github.com/arindam-sahoo/Emotion-Detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Emotion-Detection&theme=transparent&show_icons=true&line_height=27"/></a>
 <a href="https://github.com/arindam-sahoo/Social-Media-Friend-Recommendation-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Social-Media-Friend-Recommendation-System&theme=transparent&show_icons=true&line_height=27"/></a></div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center"><a href="https://github.com/arindam-sahoo/Smart-Gardening-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Smart-Gardening-System&theme=transparent&show_icons=true&line_height=27" /></a>
 <a href="https://github.com/arindam-sahoo/Hindrance-Avoidance" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Hindrance-Avoidance&theme=transparent&show_icons=true&line_height=27"/></a></div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center"><a href="https://github.com/arindam-sahoo/Breast-Cancer-Detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Breast-Cancer-Detection&theme=transparent&show_icons=true&line_height=27"/></a>
 </div>
