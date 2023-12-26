@@ -26,7 +26,7 @@
 <p>I am a Computer Engineering Enthusiast, seeking to utilize my knowledge of programming to innovate, as well as gain knowledge and experience in the process. I am originated from Kolkata, West Bengal, India. I have been coding since 2010 and teaching coding since 2016 and have been a corporate coding instructor since 2021.</p>
 
 * 🗺️  I'm based in Kolkata
-* 🌍   [Click Here](https://arindam-sahoo.netlify.app/) to see my portfolio
+* 🌍  <a href="https://arindam-sahoo.netlify.app/" target="_blank">Click Here</a> to see my portfolio
 * ✉️  You can contact me at [arindam.sahoo.1106@gmail.com](mailto:arindam.sahoo.1106@gmail.com)
 * 🤝  I'm open to collaborate on Challenging Projects
 <!-- * 🚀  I'm currently working on [Auvete](http://github.com/Auvete) -->
