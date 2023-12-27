@@ -29,7 +29,7 @@
 * 🌍  [Click Here](https://arindam-sahoo.netlify.app/) to see my portfolio
 * ✉️  You can contact me at [arindam.sahoo.1106@gmail.com](mailto:arindam.sahoo.1106@gmail.com)
 * 🤝  I'm open to collaborating on Challenging Projects
-* 🚀  I'm currently learning about Web Real-Time Communication and Blockchain
+* 🚀  I'm currently learning about Web Real-Time Communication and System Design
 <br/>
 
 
