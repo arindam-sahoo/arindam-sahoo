@@ -5,6 +5,14 @@
   <img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" style="padding-right: 10px;"/>
 </a>
 
+<a href="https://arindam-sahoo.netlify.app/">
+  <img align="left" height="50px" src="https://www.freepnglogos.com/uploads/logo-internet-png/logo-internet-chemiphase-updated-website-goes-live-chemiphase-ltd-12.png" style="padding-right: 10px;"/>
+</a>
+
+<a href="https://dev.to/arindam-sahoo">
+  <img align="left" height="50px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" style="padding-right: 10px;"/>
+</a>
+
 <a href="https://telegram.me/this_is_arin02">
   <img align="left" height="50px" src="https://icons-for-free.com/download-icon-media+social+telegram+icon-1320193121598222952_512.png" style="padding-right: 10px;"/>
 </a>
