@@ -13,10 +13,6 @@
   <img align="left" height="50px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" style="padding-right: 10px;"/>
 </a>
 
-<a href="https://telegram.me/this_is_arin02">
-  <img align="left" height="50px" src="https://icons-for-free.com/download-icon-media+social+telegram+icon-1320193121598222952_512.png" style="padding-right: 10px;"/>
-</a>
-
 <a href="mailto:arindam.sahoo.1106@gmail.com">
   <img align="left" height="50px" src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png" style="padding-right: 10px;"/>
 </a>
@@ -132,4 +128,4 @@
 <br/><br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center"><a href="https://github.com/arindam-sahoo/Breast-Cancer-Detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Breast-Cancer-Detection&theme=transparent&show_icons=true&line_height=26"/></a>
-</div>
+<a href="https://github.com/arindam-sahoo/DataPilot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=DataPilot&theme=transparent&show_icons=true&line_height=26.0"/></a></div>
