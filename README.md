@@ -58,7 +58,7 @@
 <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" height="50"/>
 <img src="https://pandas.pydata.org/static/img/favicon_white.ico" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" height="50"/>
-<img src="https://techis.io/assets/img/sklearn-lg.png" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height="50"/>
 </p>
 
 #### Backend Web Development Frameworks
@@ -117,15 +117,10 @@
 
 ## Public Repositories
 
-<div width="100%" align="center"><a href="https://github.com/arindam-sahoo/Emotion-Detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Emotion-Detection&theme=transparent&show_icons=true&line_height=26"/></a>
-<a href="https://github.com/arindam-sahoo/Social-Media-Friend-Recommendation-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Social-Media-Friend-Recommendation-System&theme=transparent&show_icons=true&line_height=26"/></a></div>
-
-<br/><br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center"><a href="https://github.com/arindam-sahoo/Smart-Gardening-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Smart-Gardening-System&theme=transparent&show_icons=true&line_height=26" /></a>
-<a href="https://github.com/arindam-sahoo/Hindrance-Avoidance" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Hindrance-Avoidance&theme=transparent&show_icons=true&line_height=26"/></a></div>
-
-<br/><br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center"><a href="https://github.com/arindam-sahoo/Breast-Cancer-Detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Breast-Cancer-Detection&theme=transparent&show_icons=true&line_height=26"/></a>
-<a href="https://github.com/arindam-sahoo/DataPilot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=DataPilot&theme=transparent&show_icons=true&line_height=26.0"/></a></div>
+<a href="https://github.com/arindam-sahoo/Community-WebApp"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Community-WebApp&theme=transparent&show_icons=true&line_height=26"/></a>
+<a href="https://github.com/arindam-sahoo/Emotion-Detection"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Emotion-Detection&theme=transparent&show_icons=true&line_height=26"/></a>
+<a href="https://github.com/arindam-sahoo/Social-Media-Friend-Recommendation-System"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Social-Media-Friend-Recommendation-System&theme=transparent&show_icons=true&line_height=26"/></a>
+<a href="https://github.com/arindam-sahoo/Smart-Gardening-System"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Smart-Gardening-System&theme=transparent&show_icons=true&line_height=26" /></a>
+<a href="https://github.com/arindam-sahoo/Hindrance-Avoidance"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Hindrance-Avoidance&theme=transparent&show_icons=true&line_height=26"/></a>
+<a href="https://github.com/arindam-sahoo/Breast-Cancer-Detection"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Breast-Cancer-Detection&theme=transparent&show_icons=true&line_height=26"/></a>
+<a href="https://github.com/arindam-sahoo/DataPilot"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=DataPilot&theme=transparent&show_icons=true&line_height=26.0"/></a>
