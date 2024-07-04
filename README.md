@@ -45,20 +45,23 @@
 
 #### Programming Languages
 <p>
-<img src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50"/>
-<img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50"/>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" style="border-radius: 5px;" height="50"/>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="50"/>
+<img src = "./icons/python.png" height="50"/>
+<img src = "./icons/java.png" height="50"/>
+<img src = "./icons/js.png" height="50"/>
+<img src = "./icons/cpp.png" height="50"/>
 </p>
 
 #### AI & ML Tools and Technologies
 <p>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" style="background-color: white; border-radius: 5px;" height="50">
+<img src = "./icons/plotly.png" height="50"/>
+<img src = "./icons/seaborn.png" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" style="border-radius: 5px;" height="50">
 <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" height="50"/>
 <img src="https://pandas.pydata.org/static/img/favicon_white.ico" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height="50"/>
+<img src = "./icons/scipy.png" height="50"/>
 </p>
 
 #### Backend Web Development Frameworks
@@ -81,7 +84,7 @@
 #### Databases
 <p>
 <img src = "https://cdn-icons-png.flaticon.com/512/4248/4248416.png" height="50"/>
-<img src="https://img.portalgsti.com.br/OcsHhsi42lFfKiWbY9GVTDliHi8=/200x200/https://www.portalgsti.com.br/media/uploads/community/2016/04/25/sqlite.png" style = "background-color: white; border-radius: 5px;" height="50"/>
+<img src = "./icons/sqlite.png" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" height="50"/>
 <img src = "https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style = "background-color: white; border-radius: 5px;" height="50"/>
 </p>
@@ -97,10 +100,11 @@
 
 #### Others
 <p>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50"/>
-<img src = "https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" style="background-color: white; border-radius: 5px;" height="50"/>
 <img src = "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/>
+<img src = "./icons/octoparse.png" height="50"/>
+<img src = "https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" style="background-color: white; border-radius: 5px;" height="50"/>
 <img src = "https://www.crummy.com/software/BeautifulSoup/10.1.jpg" style="border-radius: 5px;" height="50"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" height="50"/>
 </p>
 
 ## My Github Stats
