@@ -76,6 +76,7 @@
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50"/>
+<img src = "https://clipground.com/images/angularjs-logo-png-1.png" height="50"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="50"/>
 <img src = "https://embed.zenn.studio/api/optimize-og-image/207863c80484e50fd237/https%3A%2F%2Fbradlc.gallerycdn.vsassets.io%2Fextensions%2Fbradlc%2Fvscode-tailwindcss%2F0.11.30%2F1699559583006%2FMicrosoft.VisualStudio.Services.Icons.Default" height="50"/>
 <img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Fjquery-logo-png--512.png&f=1&nofb=1&ipt=d8c3628d525d6c7be6816e799b4a7d43955bf03c566841bec787468a37ed3067&ipo=images" height="50"/>
