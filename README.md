@@ -120,17 +120,24 @@
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arindam-sahoo&langs_count=4&theme=transparent&show_icons=true&line_height=26" alt="arindam's github stats" />
 </a> </p>
 
+## Courses' Source Codes
+
+<a href="https://github.com/arindam-sahoo/B2-CodeCraft-Senior-Summer-ology-2.0-Source-Codes"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=B2-CodeCraft-Senior-Summer-ology-2.0-Source-Codes&theme=transparent&show_icons=true&line_height=26.0"/></a>
+<a href="https://github.com/arindam-sahoo/Constellation-TnP-Java-Source-Codes"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Constellation-TnP-Java-Source-Codes&theme=transparent&show_icons=true&line_height=26.0"/></a>
+
+## Open Source Projects
+
+<a href="https://github.com/arindam-sahoo/File-Filter-Utility-Tool"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=File-Filter-Utility-Tool&theme=transparent&show_icons=true&line_height=26.0"/></a>
+
+## Kaggle
+
 ## Public Repositories
 
 <a href="https://github.com/arindam-sahoo/Community-WebApp"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Community-WebApp&theme=transparent&show_icons=true&line_height=26"/></a>
+<a href="https://github.com/arindam-sahoo/Image-Organizer-using-Facial-Recognition"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Image-Organizer-using-Facial-Recognition&theme=transparent&show_icons=true&line_height=26"/></a>
 <a href="https://github.com/arindam-sahoo/Emotion-Detection"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Emotion-Detection&theme=transparent&show_icons=true&line_height=26"/></a>
 <a href="https://github.com/arindam-sahoo/Social-Media-Friend-Recommendation-System"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Social-Media-Friend-Recommendation-System&theme=transparent&show_icons=true&line_height=26"/></a>
 <a href="https://github.com/arindam-sahoo/Smart-Gardening-System"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Smart-Gardening-System&theme=transparent&show_icons=true&line_height=26" /></a>
 <a href="https://github.com/arindam-sahoo/Hindrance-Avoidance"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Hindrance-Avoidance&theme=transparent&show_icons=true&line_height=26"/></a>
 <a href="https://github.com/arindam-sahoo/Breast-Cancer-Detection"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Breast-Cancer-Detection&theme=transparent&show_icons=true&line_height=26"/></a>
 <a href="https://github.com/arindam-sahoo/DataPilot"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=DataPilot&theme=transparent&show_icons=true&line_height=26.0"/></a>
-
-## Courses' Source Codes
-
-<a href="https://github.com/arindam-sahoo/B2-CodeCraft-Senior-Summer-ology-2.0-Source-Codes"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=B2-CodeCraft-Senior-Summer-ology-2.0-Source-Codes&theme=transparent&show_icons=true&line_height=26.0"/></a>
-<a href="https://github.com/arindam-sahoo/Constellation-TnP-Java-Source-Codes"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Constellation-TnP-Java-Source-Codes&theme=transparent&show_icons=true&line_height=26.0"/></a>
