@@ -129,8 +129,6 @@
 
 <a href="https://github.com/arindam-sahoo/File-Filter-Utility-Tool"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=File-Filter-Utility-Tool&theme=transparent&show_icons=true&line_height=26.0"/></a>
 
-## Kaggle
-
 ## Public Repositories
 
 <a href="https://github.com/arindam-sahoo/Community-WebApp"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Community-WebApp&theme=transparent&show_icons=true&line_height=26"/></a>
