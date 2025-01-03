@@ -31,8 +31,6 @@
 
 * 🗺️  I'm based in The City of Joy - Kolkata
 * 🌍  [Click Here](https://arindam-sahoo.netlify.app/) to see my portfolio
-* ✉️  You can contact me at [arindam.sahoo.1106@gmail.com](mailto:arindam.sahoo.1106@gmail.com)
-* 🤝  I'm open to collaborating on Challenging Projects
 <br/>
 
 
