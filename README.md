@@ -102,6 +102,14 @@
 </table>
 </p>
 
+## My Wakatime Stats
+<p align="center">
+<table align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</table>
+</p>
+
 ## Other Repositories
 
 <a href="https://github.com/arindam-sahoo/File-Filter-Utility-Tool"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=File-Filter-Utility-Tool&theme=transparent&show_icons=true&line_height=26.0"/></a>
