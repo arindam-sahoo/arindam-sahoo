@@ -104,10 +104,10 @@
 
 ## My Wakatime Stats
 <p align="center">
-<table align="center">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</table>
+<h4 align="center">Most Used Languages in 2025</h4>
+<img align="center" src="https://wakatime.com/share/@arindam_sahoo/a9023930-63fd-4535-98ed-cea5950e3bec.svg"/>
 </p>
 
 ## Other Repositories
