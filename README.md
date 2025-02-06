@@ -93,18 +93,14 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arindam-sahoo&theme=dark&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
+<td align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arindam-sahoo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+<h4 align="center">Most Used Languages in 2025</h4>
+  <img src="https://wakatime.com/share/@arindam_sahoo/75b7a2ad-4dc6-401a-9acb-4c3840858985.svg">
   
   </td>
 </tr>
 </table>
-</p>
-
-<p align="center">
-<h4 align="center">Most Used Languages in 2025</h4>
-<img src="https://wakatime.com/share/@arindam_sahoo/75b7a2ad-4dc6-401a-9acb-4c3840858985.svg">
 </p>
 
 ## Other Repositories
