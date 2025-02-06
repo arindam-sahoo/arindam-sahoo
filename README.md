@@ -104,7 +104,7 @@
 
 <p align="center">
 <h4 align="center">Most Used Languages in 2025</h4>
-<figure><embed src="https://wakatime.com/share/@arindam_sahoo/5767fa52-9032-4576-bf49-1de1578eeccf.svg"></embed></figure>
+<img src="https://wakatime.com/share/@arindam_sahoo/75b7a2ad-4dc6-401a-9acb-4c3840858985.svg">
 </p>
 
 ## Other Repositories
