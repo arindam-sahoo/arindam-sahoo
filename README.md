@@ -84,23 +84,9 @@
 
 ## My Github Stats
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=arindam-sahoo&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arindam-sahoo&theme=dark&hide_border=false" /> 
-</td>
-
-<td align="center">
-
-<h4 align="center">Most Used Languages in 2025</h4>
-  <img src="https://wakatime.com/share/@arindam_sahoo/75b7a2ad-4dc6-401a-9acb-4c3840858985.svg">
-  
-  </td>
-</tr>
-</table>
 </p>
 
 ## Other Repositories
