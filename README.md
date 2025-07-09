@@ -88,13 +88,3 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arindam-sahoo&theme=dark&hide_border=false" /> 
 </p>
-
-## Other Repositories
-
-<a href="https://github.com/arindam-sahoo/File-Filter-Utility-Tool"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=File-Filter-Utility-Tool&theme=transparent&show_icons=true&line_height=26.0"/></a>
-<a href="https://github.com/arindam-sahoo/Community-WebApp"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Community-WebApp&theme=transparent&show_icons=true&line_height=26"/></a>
-<a href="https://github.com/arindam-sahoo/Image-Organizer-using-Facial-Recognition"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Image-Organizer-using-Facial-Recognition&theme=transparent&show_icons=true&line_height=26"/></a>
-<a href="https://github.com/arindam-sahoo/Social-Media-Friend-Recommendation-System"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Social-Media-Friend-Recommendation-System&theme=transparent&show_icons=true&line_height=26"/></a>
-<a href="https://github.com/arindam-sahoo/Hindrance-Avoidance"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Hindrance-Avoidance&theme=transparent&show_icons=true&line_height=26"/></a>
-<a href="https://github.com/arindam-sahoo/Breast-Cancer-Detection"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=Breast-Cancer-Detection&theme=transparent&show_icons=true&line_height=26"/></a>
-<a href="https://github.com/arindam-sahoo/DataPilot"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arindam-sahoo&repo=DataPilot&theme=transparent&show_icons=true&line_height=26.0"/></a>
